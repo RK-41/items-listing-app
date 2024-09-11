@@ -1,3 +1,4 @@
+/* eslint-disable react/prop-types */
 const ItemCard = ({ user }) => {
 	return (
 		<div className='item-card'>

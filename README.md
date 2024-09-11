@@ -8,7 +8,6 @@ A sleek, modern, and responsive React.js application that fetches and displays a
 - Interactive hover effects and smooth navigation.
 
 [Check out - Link to deployed app](https://items-listing-app.vercel.app/)
-
 ---
 
 # React + Vite
